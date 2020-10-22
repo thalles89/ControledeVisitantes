@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Controle De Visitantes</string>
+
+    <string name="btn_cadastrar">Cadastrar</string>
+    <string name="cpf">CPF</string>
+    <string name="identidade">Identidade</string>
+    <string name="nome">Nome</string>
+    <string name="foto_para_cadastro">Foto para cadastro</string>
+    <string name="btn_novo">Novo</string>
+    <string name="btn_listar">Listar Entradas</string>
+    <string name="btn_registrar">Registrar</string>
+    <string name="titulo">Titulo</string>
+    <string name="registrar_sa_da">Registrar Saída</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="plate_mask">AAA-0000</string>
+    <string name="placa">Placa:</string>
+    <string name="registrar">Registrar</string>
+    <string name="modelo_carro">HONDA CIVIC</string>
+    <string name="modelo">Modelo:</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
